@@ -3,5 +3,14 @@
 	"workbench.editorAssociations": {
 		"*.md": "vscode.markdown.preview.editor"
 	},
-	"cSpell.words": ["dotenv", "spotipy", "Xhwfb"]
+	"cSpell.words": [
+		"atleast",
+		"cmap",
+		"dotenv",
+		"facecolor",
+		"figsize",
+		"scatterplot",
+		"spotipy",
+		"Xhwfb"
+	]
 }
