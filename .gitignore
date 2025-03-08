@@ -1,2 +1,7 @@
 .env
 .learn
+
+venv/
+
+__pycache__/
+.cache
